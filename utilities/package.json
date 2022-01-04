@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "web3-utils": "^1.6.1"
+  }
+}
